@@ -1,4 +1,4 @@
-package com.tfar.metalbarrels.util;
+package com.fnf.metalbarrels.util;
 
 import net.minecraft.block.Block;
 import net.minecraft.tags.BlockTags;

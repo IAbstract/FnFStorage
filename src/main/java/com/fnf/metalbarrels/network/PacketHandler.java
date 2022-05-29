@@ -1,9 +1,9 @@
 /************************
  borrowed from iron chests
  ********************* */
-package com.tfar.metalbarrels.network;
+package com.fnf.metalbarrels.network;
 
-import com.tfar.metalbarrels.MetalBarrels;
+import com.fnf.metalbarrels.MetalBarrels;
 import net.minecraft.util.ResourceLocation;
 import net.minecraftforge.fml.network.NetworkRegistry;
 import net.minecraftforge.fml.network.PacketDistributor;

@@ -1,4 +1,4 @@
-package com.tfar.metalbarrels.render;
+package com.fnf.metalbarrels.render;
 
 /*import com.mojang.blaze3d.matrix.MatrixStack;
 import net.minecraft.client.Minecraft;

@@ -1,6 +1,6 @@
-package com.tfar.metalbarrels.render;
+package com.fnf.metalbarrels.render;
 
-import com.tfar.metalbarrels.MetalBarrels;
+import com.fnf.metalbarrels.MetalBarrels;
 import net.minecraft.client.renderer.RenderType;
 import net.minecraft.client.renderer.RenderTypeLookup;
 import net.minecraftforge.api.distmarker.Dist;

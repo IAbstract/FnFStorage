@@ -1,15 +1,20 @@
-package com.tfar.metalbarrels;
+package com.fnf.metalbarrels;
 
+import com.fnf.metalbarrels.block.CrystalBarrelBlock;
+import com.fnf.metalbarrels.block.MetalBarrelBlock;
+import com.fnf.metalbarrels.container.MetalBarrelContainer;
+import com.fnf.metalbarrels.item.UpgradeInfo;
+import com.fnf.metalbarrels.screens.MetalBarrelScreen;
+import com.fnf.metalbarrels.tile.MetalBarrelBlockEntity;
+import com.fnf.metalbarrels.util.MetalBarrelBlockEntityType;
+import com.fnf.metalbarrels.util.ModTags;
 import com.google.common.collect.Sets;
 import com.tfar.metalbarrels.block.*;
 import com.tfar.metalbarrels.container.*;
-import com.tfar.metalbarrels.item.BarrelUpgradeItem;
-import com.tfar.metalbarrels.item.UpgradeInfo;
-import com.tfar.metalbarrels.network.PacketHandler;
+import com.fnf.metalbarrels.item.BarrelUpgradeItem;
+import com.fnf.metalbarrels.network.PacketHandler;
 import com.tfar.metalbarrels.screens.*;
 import com.tfar.metalbarrels.tile.*;
-import com.tfar.metalbarrels.util.MetalBarrelBlockEntityType;
-import com.tfar.metalbarrels.util.ModTags;
 import net.minecraft.block.Block;
 import net.minecraft.block.SoundType;
 import net.minecraft.block.material.Material;

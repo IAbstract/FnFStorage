@@ -1,4 +1,4 @@
-package com.tfar.metalbarrels.item;
+package com.fnf.metalbarrels.item;
 
 import net.minecraft.block.BarrelBlock;
 import net.minecraft.block.Block;

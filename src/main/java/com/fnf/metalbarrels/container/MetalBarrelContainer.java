@@ -1,7 +1,7 @@
-package com.tfar.metalbarrels.container;
+package com.fnf.metalbarrels.container;
 
-import com.tfar.metalbarrels.MetalBarrels;
-import com.tfar.metalbarrels.tile.MetalBarrelBlockEntity;
+import com.fnf.metalbarrels.MetalBarrels;
+import com.fnf.metalbarrels.tile.MetalBarrelBlockEntity;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.entity.player.PlayerInventory;
 import net.minecraft.inventory.container.Container;

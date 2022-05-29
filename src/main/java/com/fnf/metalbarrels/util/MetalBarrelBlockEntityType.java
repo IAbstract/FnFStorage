@@ -1,4 +1,4 @@
-package com.tfar.metalbarrels.util;
+package com.fnf.metalbarrels.util;
 
 import com.mojang.datafixers.types.Type;
 import net.minecraft.block.Block;

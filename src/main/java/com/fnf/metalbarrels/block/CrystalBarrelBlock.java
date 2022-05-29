@@ -1,4 +1,4 @@
-package com.tfar.metalbarrels.block;
+package com.fnf.metalbarrels.block;
 
 import net.minecraft.block.BlockState;
 import net.minecraft.tileentity.TileEntity;

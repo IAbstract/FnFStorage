@@ -1,8 +1,8 @@
-package com.tfar.metalbarrels.screens;
+package com.fnf.metalbarrels.screens;
 
+import com.fnf.metalbarrels.MetalBarrels;
 import com.mojang.blaze3d.matrix.MatrixStack;
-import com.tfar.metalbarrels.MetalBarrels;
-import com.tfar.metalbarrels.container.MetalBarrelContainer;
+import com.fnf.metalbarrels.container.MetalBarrelContainer;
 import net.minecraft.client.gui.screen.inventory.ContainerScreen;
 import net.minecraft.entity.player.PlayerInventory;
 import net.minecraft.util.ResourceLocation;

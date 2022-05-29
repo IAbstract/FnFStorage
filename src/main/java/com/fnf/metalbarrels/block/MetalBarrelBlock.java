@@ -1,6 +1,6 @@
-package com.tfar.metalbarrels.block;
+package com.fnf.metalbarrels.block;
 
-import com.tfar.metalbarrels.tile.MetalBarrelBlockEntity;
+import com.fnf.metalbarrels.tile.MetalBarrelBlockEntity;
 import net.minecraft.block.BarrelBlock;
 import net.minecraft.block.BlockState;
 import net.minecraft.entity.LivingEntity;

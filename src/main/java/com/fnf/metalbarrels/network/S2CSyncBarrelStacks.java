@@ -1,7 +1,7 @@
 /************************
 borrowed from iron chests
  ********************* */
-package com.tfar.metalbarrels.network;
+package com.fnf.metalbarrels.network;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.item.ItemStack;

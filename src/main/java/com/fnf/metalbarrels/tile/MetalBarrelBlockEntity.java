@@ -1,7 +1,7 @@
-package com.tfar.metalbarrels.tile;
+package com.fnf.metalbarrels.tile;
 
-import com.tfar.metalbarrels.util.MetalBarrelBlockEntityType;
-import com.tfar.metalbarrels.block.MetalBarrelBlock;
+import com.fnf.metalbarrels.block.MetalBarrelBlock;
+import com.fnf.metalbarrels.util.MetalBarrelBlockEntityType;
 import net.minecraft.block.BarrelBlock;
 import net.minecraft.block.BlockState;
 import net.minecraft.data.BlockStateVariantBuilder.ITriFunction;
